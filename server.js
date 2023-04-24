@@ -46,10 +46,3 @@ server.on('listening', () => {
 });
 
 server.listen(port);
-
-/* 
-
-Plugin passwordValidator (créer un schema de mot de passe -> l'utiliser comme un middleware)
-Commit uniquement le back / readme (expliquer explicitement le fonctionnement du fichier .env)
-
-*/
