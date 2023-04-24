@@ -9,13 +9,13 @@ Ceci est le backend pour le site web HotTakes réalisé avec NodeJS, Express & M
 2. Clonez le repo à partir de GitHub en utilisant la commande suivante
 
 ```bash
-git clone URL du repo
+git clone https://github.com/GuillaumeBrx/HotTakes.git
 ```
 
 3. Accédez au répertoire cloné
 
 ```bash
-cd Nom du repo
+cd HotTakes/
 ```
 
 4. Installez les dépendances
